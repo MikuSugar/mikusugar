@@ -15,7 +15,7 @@
             <img src="https://avatars2.githubusercontent.com/u/58578838" width="100px;" alt="OkamiMks"/>
         </a>
         <br />
-        <a href="https://github.com/OkamiMks">Okami チム</a>
+        <a href="https://github.com/OkamiMks">Okami 0xff666</a>
     </td>
     <td align="center">
         <a href="https://github.com/NoahDrucker">
