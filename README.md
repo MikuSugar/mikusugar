@@ -11,11 +11,11 @@
 <table>
   <tr>
     <td align="center">
-        <a href="https://github.com/OkamiMks">
-            <img src="https://avatars2.githubusercontent.com/u/58578838" width="100px;" alt="OkamiMks"/>
+        <a href="https://github.com/Okami0xff666">
+            <img src="https://avatars2.githubusercontent.com/u/58578838" width="100px;" alt="Okami0xff666"/>
         </a>
         <br />
-        <a href="https://github.com/OkamiMks">Okami 0xff666</a>
+        <a href="https://github.com/Okami0xff666">Okami 0xff666</a>
     </td>
     <td align="center">
         <a href="https://github.com/NoahDrucker">
