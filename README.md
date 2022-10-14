@@ -53,11 +53,11 @@
         <a href="https://github.com/archivine">vaul</a>
     </td>
     <td align="center">
-        <a href="https://github.com/nediiii">
-            <img src="https://avatars2.githubusercontent.com/u/28828438" width="100px;" alt="nediiii"/>
+        <a href="https://github.com/haixin1225">
+            <img src="https://avatars2.githubusercontent.com/u/28828438" width="100px;" alt="haixin1225"/>
         </a>
         <br />
-        <a href="https://github.com/nediiii">nediiii</a>
+        <a href="https://github.com/haixin1225">haixin</a>
     </td>
   </tr>
   <tr>
