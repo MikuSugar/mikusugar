@@ -39,13 +39,6 @@
         <a href="https://github.com/everthis">Nothing</a>
     </td>
     <td align="center">
-        <a href="https://github.com/archivine">
-            <img src="https://avatars2.githubusercontent.com/u/51271204" width="100px;" alt="archivine"/>
-        </a>
-        <br />
-        <a href="https://github.com/archivine">vaul</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/ShuangpengPang">
             <img src="https://avatars2.githubusercontent.com/u/16634837" width="100px;" alt="ShuangpengPang"/>
         </a>
@@ -59,8 +52,6 @@
         <br />
         <a href="https://github.com/haixin1225">haixin</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
         <a href="https://github.com/MuziMin0222">
             <img src="https://avatars2.githubusercontent.com/u/40995489" width="100px;" alt="MuziMin0222"/>
@@ -68,6 +59,8 @@
         <br />
         <a href="https://github.com/MuziMin0222">muzimin</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
         <a href="https://github.com/tianjx98">
             <img src="https://avatars2.githubusercontent.com/u/41153654" width="100px;" alt="tianjx98"/>
@@ -110,8 +103,6 @@
         <br />
         <a href="https://github.com/RM-66">Ruimin </a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
         <a href="https://github.com/AndrewYang9112">
             <img src="https://avatars2.githubusercontent.com/u/44937460" width="100px;" alt="AndrewYang9112"/>
@@ -119,6 +110,8 @@
         <br />
         <a href="https://github.com/AndrewYang9112">AndrewYang9112</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
         <a href="https://github.com/dhh731391922">
             <img src="https://avatars2.githubusercontent.com/u/41181504" width="100px;" alt="dhh731391922"/>
