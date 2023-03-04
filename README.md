@@ -18,18 +18,18 @@
         <a href="https://github.com/Okami0xff666">Okami 0xff666 λ</a>
     </td>
     <td align="center">
-        <a href="https://github.com/XCBA">
-            <img src="https://avatars2.githubusercontent.com/u/107749581" width="100px;" alt="XCBA"/>
-        </a>
-        <br />
-        <a href="https://github.com/XCBA">XCBA</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/mmertpolat">
             <img src="https://avatars2.githubusercontent.com/u/24900500" width="100px;" alt="mmertpolat"/>
         </a>
         <br />
         <a href="https://github.com/mmertpolat">Muhammet Mert Polat</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/XCBA">
+            <img src="https://avatars2.githubusercontent.com/u/107749581" width="100px;" alt="XCBA"/>
+        </a>
+        <br />
+        <a href="https://github.com/XCBA">XCBA</a>
     </td>
     <td align="center">
         <a href="https://github.com/NoahDrucker">
