@@ -11,18 +11,18 @@
 <table>
   <tr>
     <td align="center">
-        <a href="https://github.com/Okami0xff666">
-            <img src="https://avatars2.githubusercontent.com/u/58578838" width="100px;" alt="Okami0xff666"/>
-        </a>
-        <br />
-        <a href="https://github.com/Okami0xff666">Okami 0xff666 λ</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/mmertpolat">
             <img src="https://avatars2.githubusercontent.com/u/24900500" width="100px;" alt="mmertpolat"/>
         </a>
         <br />
         <a href="https://github.com/mmertpolat">Muhammet Mert Polat</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/Okami0xff666">
+            <img src="https://avatars2.githubusercontent.com/u/58578838" width="100px;" alt="Okami0xff666"/>
+        </a>
+        <br />
+        <a href="https://github.com/Okami0xff666">Okami 0xff666 λ</a>
     </td>
     <td align="center">
         <a href="https://github.com/XCBA">
