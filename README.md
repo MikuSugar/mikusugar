@@ -2,9 +2,7 @@
 
 <p align="left">
     <img src="https://github-readme-stats.vercel.app/api?username=mikusugar&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>
-</p>
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikusugar&theme=tokyonight" alt="languages" width="420">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikusugar&theme=tokyonight" alt="languages" width="420">
 </p>
 
 ![tomorrow](img/tomorrow.jpg)
