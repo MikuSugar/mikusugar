@@ -62,18 +62,18 @@
   </tr>
   <tr>
     <td align="center">
-        <a href="https://github.com/MuziMin0222">
-            <img src="https://avatars2.githubusercontent.com/u/40995489" width="100px;" alt="MuziMin0222"/>
-        </a>
-        <br />
-        <a href="https://github.com/MuziMin0222">muzimin</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/tianjx98">
             <img src="https://avatars2.githubusercontent.com/u/41153654" width="100px;" alt="tianjx98"/>
         </a>
         <br />
         <a href="https://github.com/tianjx98">tianjx98</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/MuziMin0222">
+            <img src="https://avatars2.githubusercontent.com/u/40995489" width="100px;" alt="MuziMin0222"/>
+        </a>
+        <br />
+        <a href="https://github.com/MuziMin0222">muzimin</a>
     </td>
     <td align="center">
         <a href="https://github.com/Fyime">
