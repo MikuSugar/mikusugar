@@ -97,18 +97,18 @@
         <a href="https://github.com/Hj7e2">7e2hj</a>
     </td>
     <td align="center">
-        <a href="https://github.com/NickJFang">
-            <img src="https://avatars2.githubusercontent.com/u/19494009" width="100px;" alt="NickJFang"/>
-        </a>
-        <br />
-        <a href="https://github.com/NickJFang">FangJie</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/RM-66">
             <img src="https://avatars2.githubusercontent.com/u/62274807" width="100px;" alt="RM-66"/>
         </a>
         <br />
         <a href="https://github.com/RM-66">Ruimin </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/NickJFang">
+            <img src="https://avatars2.githubusercontent.com/u/19494009" width="100px;" alt="NickJFang"/>
+        </a>
+        <br />
+        <a href="https://github.com/NickJFang">FangJie</a>
     </td>
   </tr>
   <tr>
