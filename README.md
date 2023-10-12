@@ -1,8 +1,9 @@
 ### 欢迎来到我的GitHub（Welcome to my GitHub）😊
 
-<p align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=mikusugar&show_icons=true" alt="my github stats" width="420" height="167"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikusugar" alt="languages" height="167" width="420">
-</p>
+![](https://raw.githubusercontent.com/mikusugar/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/mikusugar/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/mikusugar/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/mikusugar/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
 
 ![tomorrow](img/tomorrow.jpg)
