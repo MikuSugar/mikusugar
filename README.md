@@ -77,18 +77,18 @@
         <a href="https://github.com/tianjx98">tianjx98</a>
     </td>
     <td align="center">
-        <a href="https://github.com/Fyime">
-            <img src="https://avatars2.githubusercontent.com/u/46854523" width="100px;" alt="Fyime"/>
-        </a>
-        <br />
-        <a href="https://github.com/Fyime">Fyime</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/weigu520">
             <img src="https://avatars2.githubusercontent.com/u/54529611" width="100px;" alt="weigu520"/>
         </a>
         <br />
         <a href="https://github.com/weigu520">weigu520</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/Fyime">
+            <img src="https://avatars2.githubusercontent.com/u/46854523" width="100px;" alt="Fyime"/>
+        </a>
+        <br />
+        <a href="https://github.com/Fyime">Fyime</a>
     </td>
     <td align="center">
         <a href="https://github.com/Hj7e2">
