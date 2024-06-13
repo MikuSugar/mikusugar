@@ -78,13 +78,6 @@
         <a href="https://github.com/haixinsong">haixin</a>
     </td>
     <td align="center">
-        <a href="https://github.com/KrydenZ">
-            <img src="https://avatars2.githubusercontent.com/u/77149561" width="100px;" alt="KrydenZ"/>
-        </a>
-        <br />
-        <a href="https://github.com/KrydenZ">KrydenZ</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/tianjx98">
             <img src="https://avatars2.githubusercontent.com/u/41153654" width="100px;" alt="tianjx98"/>
         </a>
@@ -112,8 +105,6 @@
         <br />
         <a href="https://github.com/Hj7e2">7e2hj</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
         <a href="https://github.com/RM-66">
             <img src="https://avatars2.githubusercontent.com/u/62274807" width="100px;" alt="RM-66"/>
@@ -121,6 +112,8 @@
         <br />
         <a href="https://github.com/RM-66">Ruimin </a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
         <a href="https://github.com/NickJFang">
             <img src="https://avatars2.githubusercontent.com/u/19494009" width="100px;" alt="NickJFang"/>
