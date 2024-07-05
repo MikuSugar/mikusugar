@@ -6,6 +6,8 @@
 ![](https://raw.githubusercontent.com/mikusugar/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/mikusugar/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
+[![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=mikusugar)](https://github.com/IceEnd)
+
 
 ![tomorrow](img/tomorrow.jpg)
 ### 关注我的大佬们👇：
