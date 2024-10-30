@@ -15,13 +15,6 @@
 <table>
   <tr>
     <td align="center">
-        <a href="https://github.com/BEPb">
-            <img src="https://avatars2.githubusercontent.com/u/57312267" width="100px;" alt="BEPb"/>
-        </a>
-        <br />
-        <a href="https://github.com/BEPb">Andrej Marinchenko</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/mmertpolat">
             <img src="https://avatars2.githubusercontent.com/u/24900500" width="100px;" alt="mmertpolat"/>
         </a>
@@ -63,8 +56,6 @@
         <br />
         <a href="https://github.com/ShuangpengPang">ShuangpengPang</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
         <a href="https://github.com/1AoB">
             <img src="https://avatars2.githubusercontent.com/u/78208268" width="100px;" alt="1AoB"/>
@@ -72,6 +63,8 @@
         <br />
         <a href="https://github.com/1AoB">1AoB</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
         <a href="https://github.com/MuziMin0222">
             <img src="https://avatars2.githubusercontent.com/u/40995489" width="100px;" alt="MuziMin0222"/>
@@ -114,8 +107,6 @@
         <br />
         <a href="https://github.com/weigu520">weigu520</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
         <a href="https://github.com/Hj7e2">
             <img src="https://avatars2.githubusercontent.com/u/52975682" width="100px;" alt="Hj7e2"/>
@@ -123,6 +114,8 @@
         <br />
         <a href="https://github.com/Hj7e2">7e2hj</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
         <a href="https://github.com/Fyime">
             <img src="https://avatars2.githubusercontent.com/u/46854523" width="100px;" alt="Fyime"/>
@@ -164,6 +157,13 @@
         </a>
         <br />
         <a href="https://github.com/AndrewYang9112">AndrewYang9112</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/Hey1you">
+            <img src="https://avatars2.githubusercontent.com/u/48322534" width="100px;" alt="Hey1you"/>
+        </a>
+        <br />
+        <a href="https://github.com/Hey1you">Hey1you</a>
     </td>
   </tr>
 </table>
