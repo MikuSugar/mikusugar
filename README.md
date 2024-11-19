@@ -43,6 +43,13 @@
         <a href="https://github.com/NoahDrucker">Noah</a>
     </td>
     <td align="center">
+        <a href="https://github.com/nholuongut">
+            <img src="https://avatars2.githubusercontent.com/u/58627821" width="100px;" alt="nholuongut"/>
+        </a>
+        <br />
+        <a href="https://github.com/nholuongut">Nho Luong</a>
+    </td>
+    <td align="center">
         <a href="https://github.com/everthis">
             <img src="https://avatars2.githubusercontent.com/u/3142886" width="100px;" alt="everthis"/>
         </a>
@@ -56,6 +63,8 @@
         <br />
         <a href="https://github.com/ShuangpengPang">ShuangpengPang</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
         <a href="https://github.com/1AoB">
             <img src="https://avatars2.githubusercontent.com/u/78208268" width="100px;" alt="1AoB"/>
@@ -63,8 +72,6 @@
         <br />
         <a href="https://github.com/1AoB">1AoB</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
         <a href="https://github.com/MuziMin0222">
             <img src="https://avatars2.githubusercontent.com/u/40995489" width="100px;" alt="MuziMin0222"/>
@@ -107,6 +114,8 @@
         <br />
         <a href="https://github.com/weigu520">weigu520</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
         <a href="https://github.com/Hj7e2">
             <img src="https://avatars2.githubusercontent.com/u/52975682" width="100px;" alt="Hj7e2"/>
@@ -114,8 +123,6 @@
         <br />
         <a href="https://github.com/Hj7e2">7e2hj</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
         <a href="https://github.com/Fyime">
             <img src="https://avatars2.githubusercontent.com/u/46854523" width="100px;" alt="Fyime"/>
@@ -157,13 +164,6 @@
         </a>
         <br />
         <a href="https://github.com/AndrewYang9112">AndrewYang9112</a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/Hey1you">
-            <img src="https://avatars2.githubusercontent.com/u/48322534" width="100px;" alt="Hey1you"/>
-        </a>
-        <br />
-        <a href="https://github.com/Hey1you">Hey1you</a>
     </td>
   </tr>
 </table>
