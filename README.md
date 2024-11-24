@@ -36,18 +36,18 @@
         <a href="https://github.com/XCBA">XCBA</a>
     </td>
     <td align="center">
-        <a href="https://github.com/NoahDrucker">
-            <img src="https://avatars2.githubusercontent.com/u/45659684" width="100px;" alt="NoahDrucker"/>
-        </a>
-        <br />
-        <a href="https://github.com/NoahDrucker">Noah</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/nholuongut">
             <img src="https://avatars2.githubusercontent.com/u/58627821" width="100px;" alt="nholuongut"/>
         </a>
         <br />
         <a href="https://github.com/nholuongut">Nho Luong</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/NoahDrucker">
+            <img src="https://avatars2.githubusercontent.com/u/45659684" width="100px;" alt="NoahDrucker"/>
+        </a>
+        <br />
+        <a href="https://github.com/NoahDrucker">Noah</a>
     </td>
     <td align="center">
         <a href="https://github.com/everthis">
