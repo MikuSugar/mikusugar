@@ -50,12 +50,21 @@
         <a href="https://github.com/NoahDrucker">Noah</a>
     </td>
     <td align="center">
+        <a href="https://github.com/hauntmuskie">
+            <img src="https://avatars2.githubusercontent.com/u/46187240" width="100px;" alt="hauntmuskie"/>
+        </a>
+        <br />
+        <a href="https://github.com/hauntmuskie">Rionggo Rahardi</a>
+    </td>
+    <td align="center">
         <a href="https://github.com/everthis">
             <img src="https://avatars2.githubusercontent.com/u/3142886" width="100px;" alt="everthis"/>
         </a>
         <br />
         <a href="https://github.com/everthis">Nothing</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
         <a href="https://github.com/ShuangpengPang">
             <img src="https://avatars2.githubusercontent.com/u/16634837" width="100px;" alt="ShuangpengPang"/>
@@ -63,8 +72,6 @@
         <br />
         <a href="https://github.com/ShuangpengPang">ShuangpengPang</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
         <a href="https://github.com/1AoB">
             <img src="https://avatars2.githubusercontent.com/u/78208268" width="100px;" alt="1AoB"/>
@@ -107,6 +114,8 @@
         <br />
         <a href="https://github.com/tianjx98">tianjx98</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
         <a href="https://github.com/weigu520">
             <img src="https://avatars2.githubusercontent.com/u/54529611" width="100px;" alt="weigu520"/>
@@ -114,8 +123,6 @@
         <br />
         <a href="https://github.com/weigu520">weigu520</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
         <a href="https://github.com/Hj7e2">
             <img src="https://avatars2.githubusercontent.com/u/52975682" width="100px;" alt="Hj7e2"/>
@@ -157,13 +164,6 @@
         </a>
         <br />
         <a href="https://github.com/dhh731391922">dhh731391922</a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/AndrewYang9112">
-            <img src="https://avatars2.githubusercontent.com/u/44937460" width="100px;" alt="AndrewYang9112"/>
-        </a>
-        <br />
-        <a href="https://github.com/AndrewYang9112">AndrewYang9112</a>
     </td>
   </tr>
 </table>
