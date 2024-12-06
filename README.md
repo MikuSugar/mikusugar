@@ -22,18 +22,18 @@
         <a href="https://github.com/mmertpolat">Muhammet Mert Polat</a>
     </td>
     <td align="center">
-        <a href="https://github.com/45739847">
-            <img src="https://avatars2.githubusercontent.com/u/58578838" width="100px;" alt="45739847"/>
-        </a>
-        <br />
-        <a href="https://github.com/45739847">45739847</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/nholuongut">
             <img src="https://avatars2.githubusercontent.com/u/58627821" width="100px;" alt="nholuongut"/>
         </a>
         <br />
         <a href="https://github.com/nholuongut">Nho Luong</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/45739847">
+            <img src="https://avatars2.githubusercontent.com/u/58578838" width="100px;" alt="45739847"/>
+        </a>
+        <br />
+        <a href="https://github.com/45739847">45739847</a>
     </td>
     <td align="center">
         <a href="https://github.com/XCBA">
