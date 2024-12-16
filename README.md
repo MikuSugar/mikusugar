@@ -15,18 +15,18 @@
 <table>
   <tr>
     <td align="center">
-        <a href="https://github.com/mmertpolat">
-            <img src="https://avatars2.githubusercontent.com/u/24900500" width="100px;" alt="mmertpolat"/>
-        </a>
-        <br />
-        <a href="https://github.com/mmertpolat">Muhammet Mert Polat</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/nholuongut">
             <img src="https://avatars2.githubusercontent.com/u/58627821" width="100px;" alt="nholuongut"/>
         </a>
         <br />
         <a href="https://github.com/nholuongut">Nho Luong</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/mmertpolat">
+            <img src="https://avatars2.githubusercontent.com/u/24900500" width="100px;" alt="mmertpolat"/>
+        </a>
+        <br />
+        <a href="https://github.com/mmertpolat">Muhammet Mert Polat</a>
     </td>
     <td align="center">
         <a href="https://github.com/45739847">
