@@ -80,18 +80,18 @@
         <a href="https://github.com/ruimin-z">ruimin-z</a>
     </td>
     <td align="center">
-        <a href="https://github.com/haixinsong">
-            <img src="https://avatars2.githubusercontent.com/u/28828438" width="100px;" alt="haixinsong"/>
-        </a>
-        <br />
-        <a href="https://github.com/haixinsong">haixin</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/MuziMin0222">
             <img src="https://avatars2.githubusercontent.com/u/40995489" width="100px;" alt="MuziMin0222"/>
         </a>
         <br />
         <a href="https://github.com/MuziMin0222">muzimin</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/haixinsong">
+            <img src="https://avatars2.githubusercontent.com/u/28828438" width="100px;" alt="haixinsong"/>
+        </a>
+        <br />
+        <a href="https://github.com/haixinsong">haixin</a>
     </td>
     <td align="center">
         <a href="https://github.com/KrydenZ">
