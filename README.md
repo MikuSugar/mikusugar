@@ -15,6 +15,13 @@
 <table>
   <tr>
     <td align="center">
+        <a href="https://github.com/LinuxJS">
+            <img src="https://avatars2.githubusercontent.com/u/193270912" width="100px;" alt="LinuxJS"/>
+        </a>
+        <br />
+        <a href="https://github.com/LinuxJS">Meow</a>
+    </td>
+    <td align="center">
         <a href="https://github.com/nholuongut">
             <img src="https://avatars2.githubusercontent.com/u/58627821" width="100px;" alt="nholuongut"/>
         </a>
@@ -56,6 +63,8 @@
         <br />
         <a href="https://github.com/everthis">Nothing</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
         <a href="https://github.com/1AoB">
             <img src="https://avatars2.githubusercontent.com/u/78208268" width="100px;" alt="1AoB"/>
@@ -63,8 +72,6 @@
         <br />
         <a href="https://github.com/1AoB">1AoB</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
         <a href="https://github.com/ShuangpengPang">
             <img src="https://avatars2.githubusercontent.com/u/16634837" width="100px;" alt="ShuangpengPang"/>
@@ -107,6 +114,8 @@
         <br />
         <a href="https://github.com/tianjx98">tianjx98</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
         <a href="https://github.com/weigu520">
             <img src="https://avatars2.githubusercontent.com/u/54529611" width="100px;" alt="weigu520"/>
@@ -114,8 +123,6 @@
         <br />
         <a href="https://github.com/weigu520">weigu520</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
         <a href="https://github.com/Hj7e2">
             <img src="https://avatars2.githubusercontent.com/u/52975682" width="100px;" alt="Hj7e2"/>
@@ -157,13 +164,6 @@
         </a>
         <br />
         <a href="https://github.com/TXH1997">Xenos Tian</a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/AndrewYang9112">
-            <img src="https://avatars2.githubusercontent.com/u/44937460" width="100px;" alt="AndrewYang9112"/>
-        </a>
-        <br />
-        <a href="https://github.com/AndrewYang9112">AndrewYang9112</a>
     </td>
   </tr>
 </table>
