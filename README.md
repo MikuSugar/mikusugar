@@ -131,11 +131,11 @@
         <a href="https://github.com/Hj7e2">7e2hj</a>
     </td>
     <td align="center">
-        <a href="https://github.com/MewGX">
-            <img src="https://avatars2.githubusercontent.com/u/46854523" width="100px;" alt="MewGX"/>
+        <a href="https://github.com/IridaGX">
+            <img src="https://avatars2.githubusercontent.com/u/46854523" width="100px;" alt="IridaGX"/>
         </a>
         <br />
-        <a href="https://github.com/MewGX">Genesect</a>
+        <a href="https://github.com/IridaGX">Genesect</a>
     </td>
     <td align="center">
         <a href="https://github.com/RM-66">
