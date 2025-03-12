@@ -1,5 +1,5 @@
 ### 欢迎来到我的GitHub（Welcome to my GitHub）😊
-[![My Skills](https://skillicons.dev/icons?i=java,py,scala,idea,pycharm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,py,scala,rust,idea,pycharm)](https://skillicons.dev)
 
 ![](https://raw.githubusercontent.com/mikusugar/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/mikusugar/github-stats/master/generated/overview.svg#gh-light-mode-only)
