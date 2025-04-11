@@ -29,18 +29,18 @@
         <a href="https://github.com/nholuongut">Nho Luong</a>
     </td>
     <td align="center">
-        <a href="https://github.com/helallao">
-            <img src="https://avatars2.githubusercontent.com/u/78656003" width="100px;" alt="helallao"/>
-        </a>
-        <br />
-        <a href="https://github.com/helallao">Ali Yaşar</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/mmertpolat">
             <img src="https://avatars2.githubusercontent.com/u/24900500" width="100px;" alt="mmertpolat"/>
         </a>
         <br />
         <a href="https://github.com/mmertpolat">Muhammet Mert Polat</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/helallao">
+            <img src="https://avatars2.githubusercontent.com/u/78656003" width="100px;" alt="helallao"/>
+        </a>
+        <br />
+        <a href="https://github.com/helallao">Ali Yaşar</a>
     </td>
     <td align="center">
         <a href="https://github.com/45739847">
