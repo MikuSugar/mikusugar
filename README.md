@@ -80,13 +80,6 @@
         <a href="https://github.com/ShuangpengPang">ShuangpengPang</a>
     </td>
     <td align="center">
-        <a href="https://github.com/ruimin-z">
-            <img src="https://avatars2.githubusercontent.com/u/89897169" width="100px;" alt="ruimin-z"/>
-        </a>
-        <br />
-        <a href="https://github.com/ruimin-z">ruimin-z</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/MuziMin0222">
             <img src="https://avatars2.githubusercontent.com/u/40995489" width="100px;" alt="MuziMin0222"/>
         </a>
@@ -94,11 +87,11 @@
         <a href="https://github.com/MuziMin0222">muzimin</a>
     </td>
     <td align="center">
-        <a href="https://github.com/KrydenZ">
-            <img src="https://avatars2.githubusercontent.com/u/77149561" width="100px;" alt="KrydenZ"/>
+        <a href="https://github.com/ruimin-z">
+            <img src="https://avatars2.githubusercontent.com/u/89897169" width="100px;" alt="ruimin-z"/>
         </a>
         <br />
-        <a href="https://github.com/KrydenZ">KrydenZ</a>
+        <a href="https://github.com/ruimin-z">ruimin-z</a>
     </td>
     <td align="center">
         <a href="https://github.com/haixinsong">
@@ -106,6 +99,13 @@
         </a>
         <br />
         <a href="https://github.com/haixinsong">haixin</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/KrydenZ">
+            <img src="https://avatars2.githubusercontent.com/u/77149561" width="100px;" alt="KrydenZ"/>
+        </a>
+        <br />
+        <a href="https://github.com/KrydenZ">KrydenZ</a>
     </td>
     <td align="center">
         <a href="https://github.com/tianjx98">
