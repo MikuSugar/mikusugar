@@ -108,20 +108,20 @@
         <a href="https://github.com/MuziMin0222">muzimin</a>
     </td>
     <td align="center">
-        <a href="https://github.com/tianjx98">
-            <img src="https://avatars2.githubusercontent.com/u/41153654" width="100px;" alt="tianjx98"/>
-        </a>
-        <br />
-        <a href="https://github.com/tianjx98">tianjx98</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
         <a href="https://github.com/weigu520">
             <img src="https://avatars2.githubusercontent.com/u/54529611" width="100px;" alt="weigu520"/>
         </a>
         <br />
         <a href="https://github.com/weigu520">weigu520</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+        <a href="https://github.com/tianjx98">
+            <img src="https://avatars2.githubusercontent.com/u/41153654" width="100px;" alt="tianjx98"/>
+        </a>
+        <br />
+        <a href="https://github.com/tianjx98">tianjx98</a>
     </td>
     <td align="center">
         <a href="https://github.com/Hj7e2">
