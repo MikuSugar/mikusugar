@@ -50,18 +50,18 @@
         <a href="https://github.com/XCBA">XCBA</a>
     </td>
     <td align="center">
-        <a href="https://github.com/NoahDrucker">
-            <img src="https://avatars2.githubusercontent.com/u/45659684" width="100px;" alt="NoahDrucker"/>
-        </a>
-        <br />
-        <a href="https://github.com/NoahDrucker">Noah</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/discodot">
             <img src="https://avatars2.githubusercontent.com/u/214851943" width="100px;" alt="discodot"/>
         </a>
         <br />
         <a href="https://github.com/discodot">discodot</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/NoahDrucker">
+            <img src="https://avatars2.githubusercontent.com/u/45659684" width="100px;" alt="NoahDrucker"/>
+        </a>
+        <br />
+        <a href="https://github.com/NoahDrucker">Noah</a>
     </td>
   </tr>
   <tr>
@@ -101,18 +101,18 @@
         <a href="https://github.com/KrydenZ">KrydenZ</a>
     </td>
     <td align="center">
-        <a href="https://github.com/ruimin-z">
-            <img src="https://avatars2.githubusercontent.com/u/89897169" width="100px;" alt="ruimin-z"/>
-        </a>
-        <br />
-        <a href="https://github.com/ruimin-z">ruimin-z</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/MuziMin0222">
             <img src="https://avatars2.githubusercontent.com/u/40995489" width="100px;" alt="MuziMin0222"/>
         </a>
         <br />
         <a href="https://github.com/MuziMin0222">muzimin</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/ruimin-z">
+            <img src="https://avatars2.githubusercontent.com/u/89897169" width="100px;" alt="ruimin-z"/>
+        </a>
+        <br />
+        <a href="https://github.com/ruimin-z">ruimin-z</a>
     </td>
   </tr>
   <tr>
