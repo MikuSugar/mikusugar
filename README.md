@@ -57,14 +57,21 @@
         <a href="https://github.com/NoahDrucker">Noah</a>
     </td>
     <td align="center">
+        <a href="https://github.com/rennf93">
+            <img src="https://avatars2.githubusercontent.com/u/45401804" width="100px;" alt="rennf93"/>
+        </a>
+        <br />
+        <a href="https://github.com/rennf93">Renzo F</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
         <a href="https://github.com/everthis">
             <img src="https://avatars2.githubusercontent.com/u/3142886" width="100px;" alt="everthis"/>
         </a>
         <br />
         <a href="https://github.com/everthis">Nothing</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
         <a href="https://github.com/1AoB">
             <img src="https://avatars2.githubusercontent.com/u/78208268" width="100px;" alt="1AoB"/>
@@ -107,6 +114,8 @@
         <br />
         <a href="https://github.com/ruimin-z">ruimin-z</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
         <a href="https://github.com/tianjx98">
             <img src="https://avatars2.githubusercontent.com/u/41153654" width="100px;" alt="tianjx98"/>
@@ -114,8 +123,6 @@
         <br />
         <a href="https://github.com/tianjx98">tianjx98</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
         <a href="https://github.com/weigu520">
             <img src="https://avatars2.githubusercontent.com/u/54529611" width="100px;" alt="weigu520"/>
@@ -157,13 +164,6 @@
         </a>
         <br />
         <a href="https://github.com/TXH1997">Xenos Tian</a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/dhh731391922">
-            <img src="https://avatars2.githubusercontent.com/u/41181504" width="100px;" alt="dhh731391922"/>
-        </a>
-        <br />
-        <a href="https://github.com/dhh731391922">dhh731391922</a>
     </td>
   </tr>
 </table>
