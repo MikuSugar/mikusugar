@@ -36,18 +36,18 @@
         <a href="https://github.com/helallao">Ali Yaşar</a>
     </td>
     <td align="center">
-        <a href="https://github.com/mmertpolat">
-            <img src="https://avatars2.githubusercontent.com/u/24900500" width="100px;" alt="mmertpolat"/>
-        </a>
-        <br />
-        <a href="https://github.com/mmertpolat">Muhammet Mert Polat</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/seckinyasar">
             <img src="https://avatars2.githubusercontent.com/u/86570205" width="100px;" alt="seckinyasar"/>
         </a>
         <br />
         <a href="https://github.com/seckinyasar">Seckin Yasar</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/mmertpolat">
+            <img src="https://avatars2.githubusercontent.com/u/24900500" width="100px;" alt="mmertpolat"/>
+        </a>
+        <br />
+        <a href="https://github.com/mmertpolat">Muhammet Mert Polat</a>
     </td>
     <td align="center">
         <a href="https://github.com/45739847">
