@@ -73,13 +73,6 @@
         <a href="https://github.com/NoahDrucker">Noah</a>
     </td>
     <td align="center">
-        <a href="https://github.com/fedegonc">
-            <img src="https://avatars2.githubusercontent.com/u/97002761" width="100px;" alt="fedegonc"/>
-        </a>
-        <br />
-        <a href="https://github.com/fedegonc">federico goncalvez</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/1AoB">
             <img src="https://avatars2.githubusercontent.com/u/78208268" width="100px;" alt="1AoB"/>
         </a>
@@ -114,8 +107,6 @@
         <br />
         <a href="https://github.com/KrydenZ">KrydenZ</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
         <a href="https://github.com/MuziMin0222">
             <img src="https://avatars2.githubusercontent.com/u/40995489" width="100px;" alt="MuziMin0222"/>
@@ -123,6 +114,8 @@
         <br />
         <a href="https://github.com/MuziMin0222">muzimin</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
         <a href="https://github.com/ruimin-z">
             <img src="https://avatars2.githubusercontent.com/u/89897169" width="100px;" alt="ruimin-z"/>
@@ -164,6 +157,13 @@
         </a>
         <br />
         <a href="https://github.com/RM-66">Ruimin </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/NickJFang">
+            <img src="https://avatars2.githubusercontent.com/u/19494009" width="100px;" alt="NickJFang"/>
+        </a>
+        <br />
+        <a href="https://github.com/NickJFang">FangJie</a>
     </td>
   </tr>
 </table>
