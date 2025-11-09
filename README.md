@@ -29,18 +29,18 @@
         <a href="https://github.com/LinuxJS">Meow</a>
     </td>
     <td align="center">
-        <a href="https://github.com/helallao">
-            <img src="https://avatars2.githubusercontent.com/u/78656003" width="100px;" alt="helallao"/>
-        </a>
-        <br />
-        <a href="https://github.com/helallao">Ali Yaşar</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/CelaDaniel">
             <img src="https://avatars2.githubusercontent.com/u/13622306" width="100px;" alt="CelaDaniel"/>
         </a>
         <br />
         <a href="https://github.com/CelaDaniel">Daniel Cela</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/helallao">
+            <img src="https://avatars2.githubusercontent.com/u/78656003" width="100px;" alt="helallao"/>
+        </a>
+        <br />
+        <a href="https://github.com/helallao">Ali Yaşar</a>
     </td>
     <td align="center">
         <a href="https://github.com/seckinyasar">
