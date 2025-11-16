@@ -22,18 +22,18 @@
         <a href="https://github.com/nholuongut">Nho Luong</a>
     </td>
     <td align="center">
-        <a href="https://github.com/LinuxJS">
-            <img src="https://avatars2.githubusercontent.com/u/193270912" width="100px;" alt="LinuxJS"/>
-        </a>
-        <br />
-        <a href="https://github.com/LinuxJS">Meow</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/CelaDaniel">
             <img src="https://avatars2.githubusercontent.com/u/13622306" width="100px;" alt="CelaDaniel"/>
         </a>
         <br />
         <a href="https://github.com/CelaDaniel">Daniel Cela</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/LinuxJS">
+            <img src="https://avatars2.githubusercontent.com/u/193270912" width="100px;" alt="LinuxJS"/>
+        </a>
+        <br />
+        <a href="https://github.com/LinuxJS">Meow</a>
     </td>
     <td align="center">
         <a href="https://github.com/helallao">
