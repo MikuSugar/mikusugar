@@ -22,13 +22,6 @@
         <a href="https://github.com/nholuongut">Nho Luong</a>
     </td>
     <td align="center">
-        <a href="https://github.com/helallao">
-            <img src="https://avatars2.githubusercontent.com/u/78656003" width="100px;" alt="helallao"/>
-        </a>
-        <br />
-        <a href="https://github.com/helallao">Ali Yaşar</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/seckinyasar">
             <img src="https://avatars2.githubusercontent.com/u/86570205" width="100px;" alt="seckinyasar"/>
         </a>
@@ -63,8 +56,6 @@
         <br />
         <a href="https://github.com/XCBA">XCBA</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
         <a href="https://github.com/NoahDrucker">
             <img src="https://avatars2.githubusercontent.com/u/45659684" width="100px;" alt="NoahDrucker"/>
@@ -72,6 +63,8 @@
         <br />
         <a href="https://github.com/NoahDrucker">Noah</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
         <a href="https://github.com/1AoB">
             <img src="https://avatars2.githubusercontent.com/u/78208268" width="100px;" alt="1AoB"/>
@@ -114,8 +107,6 @@
         <br />
         <a href="https://github.com/MuziMin0222">muzimin</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
         <a href="https://github.com/ruimin-z">
             <img src="https://avatars2.githubusercontent.com/u/89897169" width="100px;" alt="ruimin-z"/>
@@ -123,6 +114,8 @@
         <br />
         <a href="https://github.com/ruimin-z">ruimin-z</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
         <a href="https://github.com/tianjx98">
             <img src="https://avatars2.githubusercontent.com/u/41153654" width="100px;" alt="tianjx98"/>
@@ -164,6 +157,13 @@
         </a>
         <br />
         <a href="https://github.com/NickJFang">FangJie</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/TXH1997">
+            <img src="https://avatars2.githubusercontent.com/u/33445771" width="100px;" alt="TXH1997"/>
+        </a>
+        <br />
+        <a href="https://github.com/TXH1997">Xenos Tian</a>
     </td>
   </tr>
 </table>
