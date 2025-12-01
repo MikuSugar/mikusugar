@@ -22,13 +22,6 @@
         <a href="https://github.com/nholuongut">Nho Luong</a>
     </td>
     <td align="center">
-        <a href="https://github.com/seckinyasar">
-            <img src="https://avatars2.githubusercontent.com/u/86570205" width="100px;" alt="seckinyasar"/>
-        </a>
-        <br />
-        <a href="https://github.com/seckinyasar">Seckin Yasar</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/LinuxJS">
             <img src="https://avatars2.githubusercontent.com/u/193270912" width="100px;" alt="LinuxJS"/>
         </a>
@@ -63,8 +56,6 @@
         <br />
         <a href="https://github.com/NoahDrucker">Noah</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
         <a href="https://github.com/1AoB">
             <img src="https://avatars2.githubusercontent.com/u/78208268" width="100px;" alt="1AoB"/>
@@ -72,6 +63,8 @@
         <br />
         <a href="https://github.com/1AoB">1AoB</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
         <a href="https://github.com/everthis">
             <img src="https://avatars2.githubusercontent.com/u/3142886" width="100px;" alt="everthis"/>
@@ -114,8 +107,6 @@
         <br />
         <a href="https://github.com/ruimin-z">ruimin-z</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
         <a href="https://github.com/tianjx98">
             <img src="https://avatars2.githubusercontent.com/u/41153654" width="100px;" alt="tianjx98"/>
@@ -123,6 +114,8 @@
         <br />
         <a href="https://github.com/tianjx98">tianjx98</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
         <a href="https://github.com/Hj7e2">
             <img src="https://avatars2.githubusercontent.com/u/52975682" width="100px;" alt="Hj7e2"/>
@@ -164,6 +157,13 @@
         </a>
         <br />
         <a href="https://github.com/TXH1997">Xenos Tian</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/dhh731391922">
+            <img src="https://avatars2.githubusercontent.com/u/41181504" width="100px;" alt="dhh731391922"/>
+        </a>
+        <br />
+        <a href="https://github.com/dhh731391922">dhh731391922</a>
     </td>
   </tr>
 </table>
