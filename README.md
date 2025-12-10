@@ -138,6 +138,13 @@
         <a href="https://github.com/IridaGX">Genesect</a>
     </td>
     <td align="center">
+        <a href="https://github.com/lidong19941207">
+            <img src="https://avatars2.githubusercontent.com/u/38235536" width="100px;" alt="lidong19941207"/>
+        </a>
+        <br />
+        <a href="https://github.com/lidong19941207">LDDDDDD</a>
+    </td>
+    <td align="center">
         <a href="https://github.com/RM-66">
             <img src="https://avatars2.githubusercontent.com/u/62274807" width="100px;" alt="RM-66"/>
         </a>
@@ -157,13 +164,6 @@
         </a>
         <br />
         <a href="https://github.com/TXH1997">Xenos Tian</a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/dhh731391922">
-            <img src="https://avatars2.githubusercontent.com/u/41181504" width="100px;" alt="dhh731391922"/>
-        </a>
-        <br />
-        <a href="https://github.com/dhh731391922">dhh731391922</a>
     </td>
   </tr>
 </table>
