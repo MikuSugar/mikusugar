@@ -117,6 +117,13 @@
   </tr>
   <tr>
     <td align="center">
+        <a href="https://github.com/lidong19941207">
+            <img src="https://avatars2.githubusercontent.com/u/38235536" width="100px;" alt="lidong19941207"/>
+        </a>
+        <br />
+        <a href="https://github.com/lidong19941207">LDDDDDD</a>
+    </td>
+    <td align="center">
         <a href="https://github.com/Hj7e2">
             <img src="https://avatars2.githubusercontent.com/u/52975682" width="100px;" alt="Hj7e2"/>
         </a>
@@ -129,13 +136,6 @@
         </a>
         <br />
         <a href="https://github.com/weigu520">weigu520</a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/lidong19941207">
-            <img src="https://avatars2.githubusercontent.com/u/38235536" width="100px;" alt="lidong19941207"/>
-        </a>
-        <br />
-        <a href="https://github.com/lidong19941207">LDDDDDD</a>
     </td>
     <td align="center">
         <a href="https://github.com/IridaGX">
