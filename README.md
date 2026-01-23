@@ -29,18 +29,18 @@
         <a href="https://github.com/LinuxJS">Meow</a>
     </td>
     <td align="center">
-        <a href="https://github.com/mmertpolat">
-            <img src="https://avatars2.githubusercontent.com/u/24900500" width="100px;" alt="mmertpolat"/>
-        </a>
-        <br />
-        <a href="https://github.com/mmertpolat">Muhammet Mert Polat</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/emilycodestar">
             <img src="https://avatars2.githubusercontent.com/u/58666088" width="100px;" alt="emilycodestar"/>
         </a>
         <br />
         <a href="https://github.com/emilycodestar">Emily 💞</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/mmertpolat">
+            <img src="https://avatars2.githubusercontent.com/u/24900500" width="100px;" alt="mmertpolat"/>
+        </a>
+        <br />
+        <a href="https://github.com/mmertpolat">Muhammet Mert Polat</a>
     </td>
     <td align="center">
         <a href="https://github.com/45739847">
