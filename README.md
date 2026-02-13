@@ -159,11 +159,11 @@
         <a href="https://github.com/RM-66">Ruimin </a>
     </td>
     <td align="center">
-        <a href="https://github.com/NickJFang">
-            <img src="https://avatars2.githubusercontent.com/u/19494009" width="100px;" alt="NickJFang"/>
+        <a href="https://github.com/TXH1997">
+            <img src="https://avatars2.githubusercontent.com/u/33445771" width="100px;" alt="TXH1997"/>
         </a>
         <br />
-        <a href="https://github.com/NickJFang">FangJie</a>
+        <a href="https://github.com/TXH1997">Xenos Tian</a>
     </td>
   </tr>
 </table>
