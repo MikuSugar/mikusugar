@@ -117,13 +117,6 @@
   </tr>
   <tr>
     <td align="center">
-        <a href="https://github.com/ruimin-z">
-            <img src="https://avatars2.githubusercontent.com/u/89897169" width="100px;" alt="ruimin-z"/>
-        </a>
-        <br />
-        <a href="https://github.com/ruimin-z">ruimin-z</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/lidong19941207">
             <img src="https://avatars2.githubusercontent.com/u/38235536" width="100px;" alt="lidong19941207"/>
         </a>
@@ -150,6 +143,13 @@
         </a>
         <br />
         <a href="https://github.com/weigu520">weigu520</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/ruimin-z">
+            <img src="https://avatars2.githubusercontent.com/u/89897169" width="100px;" alt="ruimin-z"/>
+        </a>
+        <br />
+        <a href="https://github.com/ruimin-z">ruimin-z</a>
     </td>
     <td align="center">
         <a href="https://github.com/IridaGX">
