@@ -29,6 +29,13 @@
         <a href="https://github.com/LinuxJS">Meow</a>
     </td>
     <td align="center">
+        <a href="https://github.com/procerezo">
+            <img src="https://avatars2.githubusercontent.com/u/93773842" width="100px;" alt="procerezo"/>
+        </a>
+        <br />
+        <a href="https://github.com/procerezo">procerezo</a>
+    </td>
+    <td align="center">
         <a href="https://github.com/mmertpolat">
             <img src="https://avatars2.githubusercontent.com/u/24900500" width="100px;" alt="mmertpolat"/>
         </a>
@@ -55,13 +62,6 @@
         </a>
         <br />
         <a href="https://github.com/NoahDrucker">Noah</a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/ancaferro">
-            <img src="https://avatars2.githubusercontent.com/u/287352285" width="100px;" alt="ancaferro"/>
-        </a>
-        <br />
-        <a href="https://github.com/ancaferro">Anca Kovach</a>
     </td>
   </tr>
   <tr>
