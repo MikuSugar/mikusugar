@@ -15,13 +15,6 @@
 <table>
   <tr>
     <td align="center">
-        <a href="https://github.com/nholuongut">
-            <img src="https://avatars2.githubusercontent.com/u/58627821" width="100px;" alt="nholuongut"/>
-        </a>
-        <br />
-        <a href="https://github.com/nholuongut">Nho Luong</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/LinuxJS">
             <img src="https://avatars2.githubusercontent.com/u/193270912" width="100px;" alt="LinuxJS"/>
         </a>
@@ -63,8 +56,6 @@
         <br />
         <a href="https://github.com/1AoB">1AoB</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
         <a href="https://github.com/everthis">
             <img src="https://avatars2.githubusercontent.com/u/3142886" width="100px;" alt="everthis"/>
@@ -72,6 +63,8 @@
         <br />
         <a href="https://github.com/everthis">Nothing</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
         <a href="https://github.com/KrydenZ">
             <img src="https://avatars2.githubusercontent.com/u/77149561" width="100px;" alt="KrydenZ"/>
@@ -114,8 +107,6 @@
         <br />
         <a href="https://github.com/lidong19941207">LDDDDDD</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
         <a href="https://github.com/tianjx98">
             <img src="https://avatars2.githubusercontent.com/u/41153654" width="100px;" alt="tianjx98"/>
@@ -123,6 +114,8 @@
         <br />
         <a href="https://github.com/tianjx98">tianjx98</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
         <a href="https://github.com/Hj7e2">
             <img src="https://avatars2.githubusercontent.com/u/52975682" width="100px;" alt="Hj7e2"/>
@@ -164,6 +157,13 @@
         </a>
         <br />
         <a href="https://github.com/NickJFang">FangJie</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/TXH1997">
+            <img src="https://avatars2.githubusercontent.com/u/33445771" width="100px;" alt="TXH1997"/>
+        </a>
+        <br />
+        <a href="https://github.com/TXH1997">Xenos Tian</a>
     </td>
   </tr>
 </table>
