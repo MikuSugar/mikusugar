@@ -22,6 +22,13 @@
         <a href="https://github.com/LinuxJS">Meow</a>
     </td>
     <td align="center">
+        <a href="https://github.com/arvelquigley99">
+            <img src="https://avatars2.githubusercontent.com/u/324570876" width="100px;" alt="arvelquigley99"/>
+        </a>
+        <br />
+        <a href="https://github.com/arvelquigley99">Aveline Quigley</a>
+    </td>
+    <td align="center">
         <a href="https://github.com/mmertpolat">
             <img src="https://avatars2.githubusercontent.com/u/24900500" width="100px;" alt="mmertpolat"/>
         </a>
@@ -56,6 +63,8 @@
         <br />
         <a href="https://github.com/everthis">Nothing</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
         <a href="https://github.com/1AoB">
             <img src="https://avatars2.githubusercontent.com/u/78208268" width="100px;" alt="1AoB"/>
@@ -63,8 +72,6 @@
         <br />
         <a href="https://github.com/1AoB">1AoB</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
         <a href="https://github.com/KrydenZ">
             <img src="https://avatars2.githubusercontent.com/u/77149561" width="100px;" alt="KrydenZ"/>
@@ -107,6 +114,8 @@
         <br />
         <a href="https://github.com/lidong19941207">LDDDDDD</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
         <a href="https://github.com/tianjx98">
             <img src="https://avatars2.githubusercontent.com/u/41153654" width="100px;" alt="tianjx98"/>
@@ -114,8 +123,6 @@
         <br />
         <a href="https://github.com/tianjx98">tianjx98</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
         <a href="https://github.com/Hj7e2">
             <img src="https://avatars2.githubusercontent.com/u/52975682" width="100px;" alt="Hj7e2"/>
@@ -157,13 +164,6 @@
         </a>
         <br />
         <a href="https://github.com/NickJFang">FangJie</a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/TXH1997">
-            <img src="https://avatars2.githubusercontent.com/u/33445771" width="100px;" alt="TXH1997"/>
-        </a>
-        <br />
-        <a href="https://github.com/TXH1997">Xenos Tian</a>
     </td>
   </tr>
 </table>
