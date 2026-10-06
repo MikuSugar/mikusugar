@@ -22,6 +22,13 @@
         <a href="https://github.com/LinuxJS">Meow</a>
     </td>
     <td align="center">
+        <a href="https://github.com/Ali-hey-0">
+            <img src="https://avatars2.githubusercontent.com/u/157505360" width="100px;" alt="Ali-hey-0"/>
+        </a>
+        <br />
+        <a href="https://github.com/Ali-hey-0">Ali Heydari</a>
+    </td>
+    <td align="center">
         <a href="https://github.com/arvelquigley99">
             <img src="https://avatars2.githubusercontent.com/u/324570876" width="100px;" alt="arvelquigley99"/>
         </a>
@@ -56,6 +63,8 @@
         <br />
         <a href="https://github.com/NoahDrucker">Noah</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
         <a href="https://github.com/everthis">
             <img src="https://avatars2.githubusercontent.com/u/3142886" width="100px;" alt="everthis"/>
@@ -63,8 +72,6 @@
         <br />
         <a href="https://github.com/everthis">Nothing</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
         <a href="https://github.com/1AoB">
             <img src="https://avatars2.githubusercontent.com/u/78208268" width="100px;" alt="1AoB"/>
@@ -107,6 +114,8 @@
         <br />
         <a href="https://github.com/qq605567316">qq605567316</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
         <a href="https://github.com/lidong19941207">
             <img src="https://avatars2.githubusercontent.com/u/38235536" width="100px;" alt="lidong19941207"/>
@@ -114,8 +123,6 @@
         <br />
         <a href="https://github.com/lidong19941207">LDDDDDD</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
         <a href="https://github.com/tianjx98">
             <img src="https://avatars2.githubusercontent.com/u/41153654" width="100px;" alt="tianjx98"/>
@@ -157,13 +164,6 @@
         </a>
         <br />
         <a href="https://github.com/RM-66">Ruimin </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/NickJFang">
-            <img src="https://avatars2.githubusercontent.com/u/19494009" width="100px;" alt="NickJFang"/>
-        </a>
-        <br />
-        <a href="https://github.com/NickJFang">FangJie</a>
     </td>
   </tr>
 </table>
