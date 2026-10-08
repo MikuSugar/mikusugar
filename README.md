@@ -15,18 +15,18 @@
 <table>
   <tr>
     <td align="center">
-        <a href="https://github.com/LinuxJS">
-            <img src="https://avatars2.githubusercontent.com/u/193270912" width="100px;" alt="LinuxJS"/>
-        </a>
-        <br />
-        <a href="https://github.com/LinuxJS">Meow</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/Ali-hey-0">
             <img src="https://avatars2.githubusercontent.com/u/157505360" width="100px;" alt="Ali-hey-0"/>
         </a>
         <br />
         <a href="https://github.com/Ali-hey-0">Ali Heydari</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/LinuxJS">
+            <img src="https://avatars2.githubusercontent.com/u/193270912" width="100px;" alt="LinuxJS"/>
+        </a>
+        <br />
+        <a href="https://github.com/LinuxJS">Meow</a>
     </td>
     <td align="center">
         <a href="https://github.com/arvelquigley99">
