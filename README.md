@@ -66,18 +66,18 @@
   </tr>
   <tr>
     <td align="center">
-        <a href="https://github.com/1AoB">
-            <img src="https://avatars2.githubusercontent.com/u/78208268" width="100px;" alt="1AoB"/>
-        </a>
-        <br />
-        <a href="https://github.com/1AoB">1AoB</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/everthis">
             <img src="https://avatars2.githubusercontent.com/u/3142886" width="100px;" alt="everthis"/>
         </a>
         <br />
         <a href="https://github.com/everthis">Nothing</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/1AoB">
+            <img src="https://avatars2.githubusercontent.com/u/78208268" width="100px;" alt="1AoB"/>
+        </a>
+        <br />
+        <a href="https://github.com/1AoB">1AoB</a>
     </td>
     <td align="center">
         <a href="https://github.com/KrydenZ">
@@ -101,18 +101,18 @@
         <a href="https://github.com/MuziMin0222">muzimin</a>
     </td>
     <td align="center">
-        <a href="https://github.com/ShuangpengPang">
-            <img src="https://avatars2.githubusercontent.com/u/16634837" width="100px;" alt="ShuangpengPang"/>
-        </a>
-        <br />
-        <a href="https://github.com/ShuangpengPang">ShuangpengPang</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/qq605567316">
             <img src="https://avatars2.githubusercontent.com/u/34408154" width="100px;" alt="qq605567316"/>
         </a>
         <br />
         <a href="https://github.com/qq605567316">qq605567316</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/ShuangpengPang">
+            <img src="https://avatars2.githubusercontent.com/u/16634837" width="100px;" alt="ShuangpengPang"/>
+        </a>
+        <br />
+        <a href="https://github.com/ShuangpengPang">ShuangpengPang</a>
     </td>
   </tr>
   <tr>
@@ -145,13 +145,6 @@
         <a href="https://github.com/weigu520">weigu520</a>
     </td>
     <td align="center">
-        <a href="https://github.com/IridaGX">
-            <img src="https://avatars2.githubusercontent.com/u/46854523" width="100px;" alt="IridaGX"/>
-        </a>
-        <br />
-        <a href="https://github.com/IridaGX">Genesect</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/ruimin-z">
             <img src="https://avatars2.githubusercontent.com/u/89897169" width="100px;" alt="ruimin-z"/>
         </a>
@@ -164,6 +157,13 @@
         </a>
         <br />
         <a href="https://github.com/RM-66">Ruimin </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/NickJFang">
+            <img src="https://avatars2.githubusercontent.com/u/19494009" width="100px;" alt="NickJFang"/>
+        </a>
+        <br />
+        <a href="https://github.com/NickJFang">FangJie</a>
     </td>
   </tr>
 </table>
