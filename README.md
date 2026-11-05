@@ -29,18 +29,18 @@
         <a href="https://github.com/mmertpolat">Muhammet Mert Polat</a>
     </td>
     <td align="center">
-        <a href="https://github.com/45739847">
-            <img src="https://avatars2.githubusercontent.com/u/58578838" width="100px;" alt="45739847"/>
-        </a>
-        <br />
-        <a href="https://github.com/45739847">45739847</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/aixisstudio">
             <img src="https://avatars2.githubusercontent.com/u/45413729" width="100px;" alt="aixisstudio"/>
         </a>
         <br />
         <a href="https://github.com/aixisstudio">aiXis</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/45739847">
+            <img src="https://avatars2.githubusercontent.com/u/58578838" width="100px;" alt="45739847"/>
+        </a>
+        <br />
+        <a href="https://github.com/45739847">45739847</a>
     </td>
     <td align="center">
         <a href="https://github.com/XCBA">
